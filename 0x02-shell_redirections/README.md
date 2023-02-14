@@ -1,3 +1,3 @@
 
-iHello World Script
+Hello World Script
 
